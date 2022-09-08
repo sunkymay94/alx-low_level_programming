@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- * main - Entry point
+ * main - entry point
  *
  * Description: 'A program to print text using C language'
  *
