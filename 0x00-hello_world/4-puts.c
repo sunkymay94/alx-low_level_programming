@@ -1,8 +1,10 @@
 #include <stdio.h>
 /*
  * main - Entry point
+ *
  * Description: 'A program to print text using C language'
- * Return: 0 after succesfully printing function
+ *
+ * Return: 0 after printing the function
  */
 int main(void)
 {
