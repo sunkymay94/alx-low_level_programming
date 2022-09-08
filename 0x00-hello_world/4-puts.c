@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
- * *main - Entry point
- * * beginning of codes
+ * beginning of code
+ * main - Entry point
  *
  * *Return: 0 after succesfully printing function
  */
