@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - entry point
  *
  * Description: 'A program to print text using C language'
