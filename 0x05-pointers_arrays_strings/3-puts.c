@@ -1,7 +1,7 @@
-#icnlude "main.h"
+#include "main.h"
 
 /**
-* _puts - write string followed by new line
+* _puts -prints a string followed by new line
 * @str: string
  * Return: void
 */
