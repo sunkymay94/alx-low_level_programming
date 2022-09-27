@@ -13,8 +13,7 @@
 char *_memset(char *s, char b, unsigned int n)
 {
 	unsigned int mayor;
-	unsigned char *veev = s;
-	unsigned char value = b;
+	unsigned char *veev = s, value = b;
 
 	for (mayor = 0; mayor < n; mayor++)
 		veev[mayor] = value;
