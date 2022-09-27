@@ -10,7 +10,7 @@
 * Return: a pointer to memory area @s
 */
 
-char *_memset(char *s, char b, unsigned int n)
+void *_memset(void *s, int b, size_t n);
 {
 	unsigned int mayor;
 	unsigned char *veev = s, value = b;
